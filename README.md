@@ -1,16 +1,17 @@
-### Hi there 👋
+# Привет! 👋
+<p>&nbsp;</p>
 
-<!--
-**IElizaI/IElizaI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Меня зовут Лиза, я JavaScript разработчик.
+<p>&nbsp;</p>
 
-Here are some ideas to get you started:
+# Стек
+![](icons8-git-48.png)![](icons8-html-5-48.png)![](icons8-css3-48.png)![](icons8-javascript-48.png)![](icons8-реакция-40.png)![](icons8-redux-48.png)![](icons8-nodejs-48.png)![](icons8-postgresql-48.png)
++ Frontend: HTML5, CSS3, JavaScript, React, Fetch/Axios, react-router-dom, Redux
+(Thunk/Saga), redux-toolkit, Jest.
++ Backend: Node.js, Express, Bcrypt, Handlebars, Socket.IO, express-session.
++ Database: PostgreSQL, Sequelize ORM.
+<p>&nbsp;</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Контакты
++ ## [Telegram](https://t.me/lElizal)
++ ## [WhatsApp](https://wa.me/89807416305)
